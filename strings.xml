@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MySimpleList</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="etiquetas">
+        <item>Html 5</item>
+        <item>Css 3</item>
+        <item>Javascript</item>
+        <item>jQuery</item>
+        <item>PHP</item>
+        <item>MySQL</item>
+        <item>Java</item>
+        <item>XML</item>
+        <item>JSON</item>
+        <item>AngularJS</item>
+    </string-array>
+
+</resources>
